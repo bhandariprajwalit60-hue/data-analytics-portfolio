@@ -60,14 +60,14 @@ Built an interactive Excel dashboard using Pivot Tables and charts.
 
 ### 4️⃣ Power BI Business Dashboard (Ecommerce Sales)
 **Description:**  
-Designed a Power BI dashboard with KPIs and DAX measures for decision-making.
+Designed a Power BI dashboard with KPIs and DAX measures for decision-making and Python for data cleaning
 
 **Key Highlights:**
 - DAX calculations
 - Interactive visuals
 - Power BI dashboards with interactive slicers (Quarter, Category)
 
-🔗 Repo:
+🔗 Repo: https://github.com/bhandariprajwalit60-hue/ECOMMERCE-SALES-DASHBOARD
 ---
 
 ## 📬 Contact
