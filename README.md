@@ -27,7 +27,7 @@ Analyzed sales data to identify revenue trends, top products, and customer behav
 - Monthly & yearly trend analysis
 - Business-driven insights
 
-🔗 Repo: https://github.com/bhandariprajwalit60-hue/krishna-store-analysis
+🔗 Repo:
 
 ---
 
@@ -40,8 +40,7 @@ Performed data cleaning, univariate & bivariate analysis to extract meaningful i
 - Outlier detection
 - Visual insights
 
-🔗 Repo: https://github.com/bhandariprajwalit60-hue/python-eda-project
-
+🔗 Repo: 
 ---
 
 ### 3️⃣ Excel Dashboard Project
@@ -53,7 +52,7 @@ Built an interactive Excel dashboard using Pivot Tables and charts.
 - Dynamic charts
 - Business summary view
 
-🔗 Repo: https://github.com/bhandariprajwalit60-hue/excel-dashboard
+🔗 Repo: https://github.com/bhandariprajwalit60-hue/krishna-store-analysis
 
 ---
 
@@ -66,8 +65,7 @@ Designed a Power BI dashboard with KPIs and DAX measures for decision-making.
 - Interactive visuals
 - Executive-level dashboard
 
-🔗 Repo: https://github.com/bhandariprajwalit60-hue/powerbi-dashboard
-
+🔗 Repo:
 ---
 
 ## 📬 Contact
