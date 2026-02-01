@@ -72,4 +72,4 @@ Designed a Power BI dashboard with KPIs and DAX measures for decision-making and
 
 ## 📬 Contact
 - GitHub: https://github.com/bhandariprajwalit60-hue
-- LinkedIn: (add your LinkedIn profile link here)
+- LinkedIn: www.linkedin.com/in/prajwalitbhandari
