@@ -67,7 +67,8 @@ Designed a Power BI dashboard with KPIs and DAX measures for decision-making and
 - Interactive visuals
 - Power BI dashboards with interactive slicers (Quarter, Category)
 
-🔗 Repo: https://github.com/bhandariprajwalit60-hue/ECOMMERCE-SALES-DASHBOARD
+ 🔗 Repo: [View Project](https://github.com/bhandariprajwalit60-hue/ECOMMERCE-SALES-DASHBOARD)
+
 ---
 
 ## 📬 Contact
