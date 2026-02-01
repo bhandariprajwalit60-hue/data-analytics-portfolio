@@ -29,7 +29,7 @@ and visualize HR data, delivering actionable insights on attrition, salary trend
 - KPI tracking (Attrition rate, Headcount, Avg Salary)
 - Power BI dashboards with slicers and interactive visuals
 
-🔗 Repo:https://github.com/bhandariprajwalit60-hue/HR_ANALYTICS
+🔗 Repo:[View Project](https://github.com/bhandariprajwalit60-hue/HR_ANALYTICS)
 
 ---
 
@@ -54,7 +54,7 @@ Built an interactive Excel dashboard using Pivot Tables and charts.
 - Dynamic charts
 - Business summary view
 
-🔗 Repo: https://github.com/bhandariprajwalit60-hue/krishna-store-analysis
+🔗 Repo: [View Project](https://github.com/bhandariprajwalit60-hue/krishna-store-analysis)
 
 ---
 
@@ -67,7 +67,7 @@ Designed a Power BI dashboard with KPIs and DAX measures for decision-making and
 - Interactive visuals
 - Power BI dashboards with interactive slicers (Quarter, Category)
 
- 🔗 Repo: [GitHub Repository](https://github.com/bhandariprajwalit60-hue/ECOMMERCE-SALES-DASHBOARD)
+ 🔗 Repo: [View Project](https://github.com/bhandariprajwalit60-hue/ECOMMERCE-SALES-DASHBOARD)
  
 ---
 
