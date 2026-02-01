@@ -18,16 +18,18 @@ data cleaning, EDA, dashboards, and business insights.
 
 ## 📂 Projects
 
-### 1️⃣ Sales Data Analysis (SQL + Python)
+### 1️⃣ HR Data Analysis (SQL + Python + Power BI)
 **Description:**  
-Analyzed sales data to identify revenue trends, top products, and customer behavior.
+Built an end-to-end SQL, Python, and Power BI analytics project to clean, analyze
+and visualize HR data, delivering actionable insights on attrition, salary trends, and workforce performance.
 
 **Key Highlights:**
-- Revenue & product-wise analysis
-- Monthly & yearly trend analysis
-- Business-driven insights
+- Data extraction and analysis using SQL
+- Data cleaning & preprocessing using Python (Pandas, NumPy)
+- KPI tracking (Attrition rate, Headcount, Avg Salary)
+- Power BI dashboards with slicers and interactive visuals
 
-🔗 Repo:
+🔗 Repo:https://github.com/bhandariprajwalit60-hue/HR_ANALYTICS
 
 ---
 
