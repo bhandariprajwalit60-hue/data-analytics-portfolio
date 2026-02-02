@@ -42,7 +42,7 @@ Performed data cleaning, univariate & bivariate analysis to extract meaningful i
 - Outlier detection
 - Visual insights
 
-🔗 Repo: 
+🔗 Repo: [View Project](https://github.com/bhandariprajwalit60-hue/Exploratory-Data-Analysis-EDA-)
 ---
 
 ### 3️⃣ Excel Dashboard Project
